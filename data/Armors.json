@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Un regalo de Jamie con el proposito de evitarle\nuna mala experiencia a la Princesa Noir.","etypeId":2,"traits":[{"code":14,"dataId":11,"value":1},{"code":14,"dataId":19,"value":1},{"code":14,"dataId":37,"value":1},{"code":14,"dataId":27,"value":1},{"code":11,"dataId":5,"value":1.5},{"code":42,"dataId":2,"value":1}],"iconIndex":154,"name":"Vestido Real","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":2,"description":"Un regalo de Jamie con el proposito de evitarle\nuna mala experiencia a Forte.","etypeId":2,"traits":[{"code":14,"dataId":11,"value":1},{"code":14,"dataId":19,"value":1},{"code":14,"dataId":37,"value":1},{"code":14,"dataId":27,"value":1},{"code":11,"dataId":5,"value":2},{"code":42,"dataId":2,"value":1}],"iconIndex":135,"name":"Prendas Mágica","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

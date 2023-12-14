@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"description":"El libro de hechizos oscuros de la Princesa Noir, \ncontiene los principios básicos para usar magia oscura.","etypeId":1,"traits":[{"code":53,"dataId":1,"value":1}],"iconIndex":121,"name":"Libro de hechizos","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":2,"animationId":0,"description":"Unos guantes que le permiten a Forte tener manipulación\ndel fuego, ¡Son invisibles a la vista!","etypeId":1,"traits":[{"code":53,"dataId":1,"value":1}],"iconIndex":106,"name":"Guantes mágicos","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2}
+]
